@@ -1,5 +1,6 @@
 PKG_NAME := asciidoctor
-URL = https://rubygems.org/downloads/asciidoctor-2.0.15.gem
+URL = https://github.com/asciidoctor/asciidoctor.git
 ARCHIVES = 
+ARCHIVES_GIT = 
 
 include ../common/Makefile.common
